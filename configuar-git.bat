@@ -1,4 +1,4 @@
-echo OFF
+echo ON
 
 echo --- Configurando usario GitHUB ---
 echo
